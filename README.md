@@ -35,6 +35,15 @@ t provides videotelephony and online chat services through a cloud-based peer-to
 
 <img src="https://img.shields.io/badge/Built%20with-Javascript-blue">
 
+<img src="https://img.shields.io/badge/Built_with_Node-blue">
+
+<img src="https://img.shields.io/badge/Built_with_Express-blue">
+
+<img src="https://img.shields.io/badge/Built_with_MySQL-blue">
+
+<img src="https://img.shields.io/badge/Built_with_Heroku-blue">
+
+
 ## License
 
 <img src="https://img.shields.io/badge/license-MIT-blue">
