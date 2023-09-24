@@ -6,9 +6,10 @@ a face-to-face app held over the internet by means of webcams and dedicated soft
 * [Links](#links)
 * [Purpose](#purpose)
 * [Screenshots](#screenshots)
+* [Presntation](#presentation)
 * [Technologies Used](#technologies)
 * [Licence](#license)
-* [Credits](#credits)
+* [Notes](#notes)
 ## Description
 
 Call Me Maybe is an app that can be used through a computer desktop, and allows users to connect online for video conference meetings, webinars and live chat.
@@ -25,6 +26,9 @@ t provides videotelephony and online chat services through a cloud-based peer-to
 
 <img src="./public/images/deployedApp.png">
 <img src="./public/images/liveChat.png">
+
+## Presentation Slides
+<a href="https://docs.google.com/presentation/d/1MYuV9mX9qU3M8QLwb6IRjI3hsyNsnjwU7lzKWm2mpbk/edit?usp=sharing">Presentation for Call Me Maybe App App</a>
 
 
 ## Technologies
@@ -48,5 +52,6 @@ t provides videotelephony and online chat services through a cloud-based peer-to
 
 <img src="https://img.shields.io/badge/license-MIT-blue">
 
-## Credits
-Some of these materials were developed by the 2U/edX Coding Curriculum Team for use with bootcamp students.
+## notes
+Please view my commits and contribution to on a previous Github repo, and my user name is ColumbiaCoding
+https://github.com/ColumbiaCoding/CallMeMaybe/commits/main
